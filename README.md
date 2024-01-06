@@ -18,13 +18,15 @@ In 2020, my coding quest began. Starting with HTML, I met CSS and JavaScript, co
 
 - ⚡ Fun fact: **I am not a nerd**
 
+###
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/abuhasanrumi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abuhasanrumi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abu-hasan-rumi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abu-hasan-rumi" height="30" width="40" /></a>
 <a href="https://fb.com/abu.hasan.rumi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abu.hasan.rumi" height="30" width="40" /></a>
 </p>
-
+###
 <h3 align="left">Things I code with:</h3>
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" />
@@ -53,3 +55,11 @@ In 2020, my coding quest began. Starting with HTML, I met CSS and JavaScript, co
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abuhasanrumi&theme=vue-dark&hide_border=true" alt="abuhasanrumi" />  
 </p>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
