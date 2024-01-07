@@ -43,10 +43,9 @@ In 2020, my coding quest began. Starting with HTML, I met CSS and JavaScript, co
 <img align="left" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" alt="eslint" />
 <img align="left" src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="prettier" />
 <img align="left" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
-
+<br>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=abuhasanrumi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="abuhasanrumi" />
 
-<img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuhasanrumi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="abuhasanrumi" />
 <img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuhasanrumi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="abuhasanrumi" />
 
 <br>
