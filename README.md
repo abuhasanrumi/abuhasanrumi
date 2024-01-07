@@ -46,10 +46,10 @@ In 2020, my coding quest began. Starting with HTML, I met CSS and JavaScript, co
 
 ####
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=abuhasanrumi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="abuhasanrumi" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=abuhasanrumi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="abuhasanrumi" />
 
-<img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuhasanrumi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="abuhasanrumi" />
+<img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuhasanrumi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="abuhasanrumi" /></p>
 
 <br />
 
-<p style="text-align: center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=abuhasanrumi&theme=tokyonight&hide_border=true" alt="abuhasanrumi" /></p>
+<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=abuhasanrumi&theme=tokyonight&hide_border=true" alt="abuhasanrumi" /></p>
