@@ -56,8 +56,6 @@ In 2020, my coding quest began. Starting with HTML, I met CSS and JavaScript, co
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abuhasanrumi&theme=vue-dark&hide_border=true" alt="abuhasanrumi" />  
 </p>
 
-###
-
-<br clear="both">
+### Watch my contribution graph get eaten by the snake
 
 ![](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
