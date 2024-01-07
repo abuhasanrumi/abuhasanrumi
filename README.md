@@ -28,7 +28,7 @@ In 2020, my coding quest began. Starting with HTML, I met CSS and JavaScript, co
 </p>
 
 <h3 align="left">Things I code with:</h3>
-<img align="left" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" />
+<p align="left"><img align="left" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" />
 <img align="left" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" />
 <img align="left" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="js" />
 <img align="left" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="ts" />
@@ -42,13 +42,10 @@ In 2020, my coding quest began. Starting with HTML, I met CSS and JavaScript, co
 <img align="left" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
 <img align="left" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" alt="eslint" />
 <img align="left" src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="prettier" />
-<img align="left" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
+<img align="left" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" /></p>
 
-####
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=abuhasanrumi&count_private=true&show_icons=true&include_all_commits=true&theme=vue-dark)
 
-[![abuhasanrumi's GitHub stats](https://github-readme-stats.vercel.app/api?username=abuhasanrumi&count_private=true&show_icons=true&include_all_commits=true&theme=vue-dark)]
-<img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuhasanrumi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="abuhasanrumi" /></p>
+<p><img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuhasanrumi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="abuhasanrumi" /></p>
 
-<br />
-
-<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=abuhasanrumi&theme=tokyonight&hide_border=true" alt="abuhasanrumi" /></p>
+<p>&nbsp;<img  src="https://github-readme-streak-stats.herokuapp.com/?user=abuhasanrumi&theme=tokyonight&hide_border=true" alt="abuhasanrumi" /></p>
