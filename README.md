@@ -28,12 +28,27 @@ In 2020, my coding quest began. Starting with HTML, I met CSS and JavaScript, co
 </p>
 
 <h3 align="left">Things I code with:</h3>
+<img align="left" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" />
 <img align="left" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" />
+<img align="left" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="js" />
+<img align="left" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="ts" />
+<img align="left" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img align="left" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+<img align="left" src="https://img.shields.io/badge/Ant%20Design-1890FF?style=for-the-badge&logo=antdesign&logoColor=white" alt="Ant Design" />
+<img align="left" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+<img align="left" src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" alt="Chakra UI" />
+<img align="left" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />
+<img align="left" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img align="left" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+<img align="left" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" alt="eslint" />
+<img align="left" src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="prettier" />
+<img align="left" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=abuhasanrumi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="abuhasanrumi" />
 
 <img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuhasanrumi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="abuhasanrumi" />
+<img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuhasanrumi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="abuhasanrumi" />
 
-<br/>
+<br>
 
 <p style="text-align: center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=abuhasanrumi&theme=tokyonight&hide_border=true" alt="abuhasanrumi" /></p>
