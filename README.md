@@ -35,6 +35,6 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=abuhasanrumi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="abuhasanrumi" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuhasanrumi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="abuhasanrumi" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuhasanrumi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="abuhasanrumi" />
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abuhasanrumi&theme=tokyonight&hide_border=true" alt="abuhasanrumi" />
