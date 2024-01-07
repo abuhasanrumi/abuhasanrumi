@@ -46,8 +46,7 @@ In 2020, my coding quest began. Starting with HTML, I met CSS and JavaScript, co
 
 ####
 
-<p><img align="left" src="![abuhasanrumi's Stats](https://github-readme-stats.vercel.app/api?username=abuhasanrumi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)" alt="abuhasanrumi" />
-
+[![abuhasanrumi's GitHub stats](https://github-readme-stats.vercel.app/api?username=abuhasanrumi&count_private=true&show_icons=true&include_all_commits=true&theme=vue-dark)]
 <img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuhasanrumi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="abuhasanrumi" /></p>
 
 <br />
