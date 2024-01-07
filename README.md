@@ -60,4 +60,4 @@ In 2020, my coding quest began. Starting with HTML, I met CSS and JavaScript, co
 
 <br clear="both">
 
-<img src="https://github.com/abuhasanrumi/abuhasanrumi/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" />
+![](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
