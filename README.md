@@ -18,8 +18,6 @@ In 2020, my coding quest began. Starting with HTML, I met CSS and JavaScript, co
 
 - ⚡ Fun fact: **I am not a nerd**
 
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=abuhasanrumi" alt="abuhasanrumi" /></p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/abuhasanrumi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abuhasanrumi" height="30" width="40" /></a>
@@ -44,6 +42,8 @@ In 2020, my coding quest began. Starting with HTML, I met CSS and JavaScript, co
 <img align="left" src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="prettier" />
 <img align="left" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" /></p>
 
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=abuhasanrumi" alt="abuhasanrumi" /></p>
+
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=abuhasanrumi&count_private=true&show_icons=true&include_all_commits=true&theme=vue-dark&hide_border=true" alt="abuhasanrumi" /></p>
 
 <p>
@@ -51,9 +51,3 @@ In 2020, my coding quest began. Starting with HTML, I met CSS and JavaScript, co
 
   <img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuhasanrumi&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="abuhasanrumi" />
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abuhasanrumi&show_icons=true&locale=en&layout=compact" alt="abuhasanrumi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abuhasanrumi&show_icons=true&theme=dark&locale=en" alt="abuhasanrumi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abuhasanrumi&" alt="abuhasanrumi" /></p>
