@@ -6,7 +6,7 @@
 
 In 2020, my coding quest began. Starting with HTML, I met CSS and JavaScript, conquering bugs like a coding warrior. Added a burst of colors 🌈 to my canvas, creating a vibrant world. In a hidden valley, I discovered React.js, transforming it into the mighty JSX 🙋‍♀️. The adventure continues—I seek to conquer new coding realms and become the Alexander the Great of web development! 💻✨
 
-- 🔭 I’m currently working on **Taskify**
+- 🔭 I’m currently working on **PizzaExpress, a NextJS food ordering app**
 
 - 🌱 I’m currently learning **NextJS**
 
