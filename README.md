@@ -20,12 +20,16 @@ I enjoy creating intuitive, accessible user interfaces, and I'm especially passi
 ## 🚀 Skills & Expertise
 
 **Languages**: 
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="js" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="ts" />
+<br/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
+  <br/>
 **Frontend**: 
+<br/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Vue.js" />
+  <br/>
 **Backend**: Node.js, Express.js, REST APIs, GraphQL, JWT  
 **Databases**: MongoDB, PostgreSQL  
 **Tooling**: Vite, Webpack, Chrome Extension APIs, Firebase  
