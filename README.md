@@ -82,7 +82,11 @@ I enjoy creating intuitive, accessible user interfaces, and I'm especially passi
 | ⚙️ [**Micro-Flow**](https://github.com/abuhasanrumi/micro-flow) | Lightweight JS utility for debouncing, throttling, and rate-limiting. |
 | 🔄 [**State-Sync**](https://github.com/abuhasanrumi/state-sync) | NPM utility to sync state across tabs and windows. |
 
-> 🧭 More projects on my [**portfolio**](https://www.itsrumi.com)
+<p align="left">
+  <a href="https://www.itsrumi.com" target="_blank">
+    <img src="https://img.shields.io/badge/More_projects_on_my_portfolio-itsrumi.com-blueviolet?style=for-the-badge&logo=vercel" alt="Portfolio Badge" />
+  </a>
+</p>
 
 ## Stats
 
