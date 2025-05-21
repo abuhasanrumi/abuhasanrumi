@@ -84,6 +84,8 @@ I enjoy creating intuitive, accessible user interfaces, and I'm especially passi
 
 > 🧭 More projects on my [**portfolio**](https://www.itsrumi.com)
 
+## Stats
+
 <table>
   <tr>
     <td align="center">
