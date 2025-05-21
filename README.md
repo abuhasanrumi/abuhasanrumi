@@ -85,11 +85,11 @@ I enjoy creating intuitive, accessible user interfaces, and I'm especially passi
 </p>
 ###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=abuhasanrumi&count_private=true&show_icons=true&include_all_commits=true&theme=vue-dark&hide_border=true" alt="abuhasanrumi" /></p>
+![abuhasanrumi's Stats](https://github-readme-stats.vercel.app/api?username=abuhasanrumi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abuhasanrumi&theme=vue-dark&hide_border=true" alt="abuhasanrumi" />  
-</p>
+![abuhasanrumi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=abuhasanrumi&theme=vue-dark&hide_border=true)
+
+![abuhasanrumi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abuhasanrumi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ### Watch my contribution graph get eaten by the snake
 
