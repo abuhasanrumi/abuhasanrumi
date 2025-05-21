@@ -1,6 +1,7 @@
 [![MasterHead](https://i.imgur.com/MT7mAta.png)](https:www.abuhasanrumi.com)
 
 ![](https://komarev.com/ghpvc/?username=abuhasanrumi&style=for-the-badge&color=green)
+[![wakatime](https://wakatime.com/badge/user/7af46feb-9d95-4ee5-ace2-c27b07d76eab.svg?style=for-the-badge)](https://wakatime.com/@7af46feb-9d95-4ee5-ace2-c27b07d76eab)
 
 I'm a **Frontend Engineer** with over 2 years of experience building responsive, high-performance web applications using **React**, **TypeScript**, and modern tooling. I currently work at **DevsNest LLC**, where I collaborate on e-commerce solutions and Shopify apps that serve real-world business needs.
 
