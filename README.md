@@ -80,7 +80,7 @@ I enjoy creating intuitive, accessible user interfaces, and I'm especially passi
 - **[State-Sync](https://github.com/abuhasanrumi/state-sync)** – NPM utility to sync state across browser tabs and windows.
 > 👉 Check out more on my [portfolio](https://www.itsrumi.com)
 
-<table border="0" cellspacing="0" cellpadding="0">
+<table>
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=abuhasanrumi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
@@ -112,6 +112,6 @@ I enjoy creating intuitive, accessible user interfaces, and I'm especially passi
     <img src="https://img.shields.io/badge/Email-message.rumi2@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://itsrumi.com/resume" target="_blank">
-    <img src="https://img.shields.io/badge/Resume/resume-4CAF50?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" />
+    <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" />
   </a>
 </p>
