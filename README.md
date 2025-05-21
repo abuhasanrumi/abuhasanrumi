@@ -84,7 +84,7 @@ I enjoy creating intuitive, accessible user interfaces, and I'm especially passi
 
 <p align="left">
   <a href="https://www.itsrumi.com" target="_blank">
-    <img src="https://img.shields.io/badge/More_projects_on_my_portfolio-itsrumi.com-blueviolet?style=for-the-badge&logo=vercel" alt="Portfolio Badge" />
+    <img src="https://img.shields.io/badge/More_projects_on_my_portfolio-itsrumi.com-4CAF50?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge" />
   </a>
 </p>
 
@@ -113,7 +113,7 @@ I enjoy creating intuitive, accessible user interfaces, and I'm especially passi
 
 <p align="left">
   <a href="https://www.itsrumi.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-itsrumi.com-0A66C2?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-itsrumi.com-2E7D32?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
   <a href="https://www.linkedin.com/in/abuhasanrumi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-abuhasanrumi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
