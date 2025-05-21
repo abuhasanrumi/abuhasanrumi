@@ -91,7 +91,7 @@ I enjoy creating intuitive, accessible user interfaces, and I'm especially passi
 
 ![abuhasanrumi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abuhasanrumi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-![abuhasanrumi's Top Languages]([https://github-readme-stats.vercel.app/api/top-langs/?username=abuhasanrumi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact](https://duolingo-stats-card.vercel.app/api?username=abuhasanrumi&theme=cobalt2&sort=xp))
+![abuhasanrumi's Top Languages](https://duolingo-stats-card.vercel.app/api?username=abuhasanrumi&theme=cobalt2&sort=xp)
 
 ### Watch my contribution graph get eaten by the snake
 
