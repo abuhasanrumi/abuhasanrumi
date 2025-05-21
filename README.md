@@ -32,7 +32,7 @@ I enjoy creating intuitive, accessible user interfaces, and I'm especially passi
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
 </p> 
 
-### ⚙Backend & APIs
+### Backend & APIs
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
@@ -62,42 +62,37 @@ I enjoy creating intuitive, accessible user interfaces, and I'm especially passi
   <img src="https://img.shields.io/badge/NPM_Packages-CC3534?style=for-the-badge&logo=npm&logoColor=white" alt="NPM Package Publishing" />
 </p>
 
-## 🧑‍💻 Work Experience
+## Work Experience
 
 ### **DevsNest LLC**  
-*Software Engineer* | *May 2023 – Present*  
-- Played a key role in developing a large-scale, scalable Shopify app dashboard, built with React, JavaScript, Redux, and REST APIs, featuring robust state management and modular architecture.
-- Built dynamic merchant dashboards and reusable frontend components, ensuring performance and maintainability across multiple apps.
-- Collaborated closely with product, design, and QA teams to deliver features aligned with business goals and user experience standards.
-- Mentored junior developers through code reviews and knowledge sharing, fostering a collaborative and growth-focused environment.
+*Software Engineer* | *May 2023 – Present*
 
-## 🛠️ Projects That I’m Proud Of
+- Contributed to a **large-scale, scalable Shopify app dashboard** using React, JavaScript, Redux, and REST APIs — with robust state management and a modular architecture.
+- Built **dynamic merchant dashboards** and **reusable frontend components**, ensuring performance and maintainability across multiple apps.
+- Collaborated with **product, design, and QA** teams to ship features aligned with business and user experience goals.
+- Provided **mentorship through code reviews**, fostering a collaborative and growth-driven developer culture.
 
-- **[FlexiForm](https://github.com/abuhasanrumi/flexiform)** – Dynamic form builder with conditional logic and real-time preview. Built using React, Zustand, and TypeScript.
-- **[Expensify](https://github.com/abuhasanrumi/expensify)** – Cross-platform expense tracking app using React Native and Firebase. 
-- **[WebPeekr](https://github.com/abuhasanrumi/webpeekr)** – Chrome extension that extracts fonts, colors, and design styles from any website.  
-- **[Micro-Flow](https://github.com/abuhasanrumi/micro-flow)** – Lightweight JavaScript utility for debouncing, throttling, and rate-limiting.  
-- **[State-Sync](https://github.com/abuhasanrumi/state-sync)** – NPM utility to sync state across browser tabs and windows.
-> 👉 Check out more on my [portfolio](https://www.itsrumi.com)
+## Projects I'm Proud Of
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=abuhasanrumi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=abuhasanrumi&theme=vue-dark&hide_border=true" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://duolingo-stats-card.vercel.app/api?username=abuhasanrumi&theme=cobalt2&sort=xp" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuhasanrumi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
-    </td>
-  </tr>
-</table>
+| Project | Description |
+|--------|-------------|
+| 🔧 [**FlexiForm**](https://github.com/abuhasanrumi/flexiform) | Dynamic form builder with conditional logic and live preview (React + Zustand + TypeScript). |
+| 💸 [**Expensify**](https://github.com/abuhasanrumi/expensify) | Cross-platform expense tracker built with React Native and Firebase. |
+| 🕵️‍♂️ [**WebPeekr**](https://github.com/abuhasanrumi/webpeekr) | Chrome extension to extract fonts, colors, and design styles from websites. |
+| ⚙️ [**Micro-Flow**](https://github.com/abuhasanrumi/micro-flow) | Lightweight JS utility for debouncing, throttling, and rate-limiting. |
+| 🔄 [**State-Sync**](https://github.com/abuhasanrumi/state-sync) | NPM utility to sync state across tabs and windows. |
+
+> 🧭 More projects on my [**portfolio**](https://www.itsrumi.com)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abuhasanrumi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abuhasanrumi&theme=vue-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://duolingo-stats-card.vercel.app/api?username=abuhasanrumi&theme=cobalt2&sort=xp" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuhasanrumi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
+</p>
 
 ## 📫 Let's Connect!
 
