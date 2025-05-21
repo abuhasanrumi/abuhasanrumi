@@ -1,13 +1,17 @@
 [![MasterHead](https://i.imgur.com/MT7mAta.png)](https:www.abuhasanrumi.com)
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://komarev.com/ghpvc/?username=abuhasanrumi&style=for-the-badge&color=green" alt="Visitor Count" />
-  <a href="https://wakatime.com/@7af46feb-9d95-4ee5-ace2-c27b07d76eab">
-    <img src="https://wakatime.com/badge/user/7af46feb-9d95-4ee5-ace2-c27b07d76eab.svg?style=for-the-badge" alt="Wakatime" />
-  </a>
-</div>
-
-
+<table width="100%">
+  <tr>
+    <td align="left">
+      <img src="https://komarev.com/ghpvc/?username=abuhasanrumi&style=for-the-badge&color=green" />
+    </td>
+    <td align="right">
+      <a href="https://wakatime.com/@7af46feb-9d95-4ee5-ace2-c27b07d76eab">
+        <img src="https://wakatime.com/badge/user/7af46feb-9d95-4ee5-ace2-c27b07d76eab.svg?style=for-the-badge" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 I'm a **Frontend Engineer** with over 2 years of experience building responsive, high-performance web applications using **React**, **TypeScript**, and modern tooling. I currently work at **DevsNest LLC**, where I collaborate on e-commerce solutions and Shopify apps that serve real-world business needs.
 
