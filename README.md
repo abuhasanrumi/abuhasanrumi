@@ -1,8 +1,6 @@
 [![MasterHead](https://i.imgur.com/MT7mAta.png)](https:www.abuhasanrumi.com)
 
-# A frontend wizard from Bangladesh
-
-[![](https://visitcount.itsvg.in/api?id=abuhasanrumi&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=green)
 
 I'm a **Frontend Engineer** with over 2 years of experience building responsive, high-performance web applications using **React**, **TypeScript**, and modern tooling. I currently work at **DevsNest LLC**, where I collaborate on e-commerce solutions and Shopify apps that serve real-world business needs.
 
