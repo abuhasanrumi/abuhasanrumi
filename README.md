@@ -7,8 +7,6 @@ I'm a **Frontend Engineer** with over 2 years of experience building responsive,
 
 I enjoy creating intuitive, accessible user interfaces, and I'm especially passionate about **developer tools**, **state management**, and building **micro-libraries** to improve UI performance.
 
----
-
 ## Skills & Tools
 
 ### Languages
@@ -64,8 +62,6 @@ I enjoy creating intuitive, accessible user interfaces, and I'm especially passi
   <img src="https://img.shields.io/badge/NPM_Packages-CC3534?style=for-the-badge&logo=npm&logoColor=white" alt="NPM Package Publishing" />
 </p>
 
----
-
 ## 🧑‍💻 Work Experience
 
 ### **DevsNest LLC**  
@@ -75,8 +71,6 @@ I enjoy creating intuitive, accessible user interfaces, and I'm especially passi
 - Collaborated closely with product, design, and QA teams to deliver features aligned with business goals and user experience standards.
 - Mentored junior developers through code reviews and knowledge sharing, fostering a collaborative and growth-focused environment.
 
----
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/abuhasanrumi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abuhasanrumi" height="30" width="40" /></a>
@@ -85,13 +79,24 @@ I enjoy creating intuitive, accessible user interfaces, and I'm especially passi
 </p>
 ###
 
-![abuhasanrumi's Stats](https://github-readme-stats.vercel.app/api?username=abuhasanrumi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-![abuhasanrumi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=abuhasanrumi&theme=vue-dark&hide_border=true)
-
-![abuhasanrumi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abuhasanrumi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
-![abuhasanrumi's Top Languages](https://duolingo-stats-card.vercel.app/api?username=abuhasanrumi&theme=cobalt2&sort=xp)
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=abuhasanrumi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=abuhasanrumi&theme=vue-dark&hide_border=true" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://duolingo-stats-card.vercel.app/api?username=abuhasanrumi&theme=cobalt2&sort=xp" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuhasanrumi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
+    </td>
+  </tr>
+</table>
 
 ### Watch my contribution graph get eaten by the snake
 
