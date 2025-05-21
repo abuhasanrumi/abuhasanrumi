@@ -71,6 +71,15 @@ I enjoy creating intuitive, accessible user interfaces, and I'm especially passi
 - Collaborated closely with product, design, and QA teams to deliver features aligned with business goals and user experience standards.
 - Mentored junior developers through code reviews and knowledge sharing, fostering a collaborative and growth-focused environment.
 
+## 🛠️ Projects That I’m Proud Of
+
+- **[FlexiForm](https://github.com/abuhasanrumi/flexiform)** – Dynamic form builder with conditional logic and real-time preview. Built using React, Zustand, and TypeScript.
+- **[Expensify](https://github.com/abuhasanrumi/expensify)** – Cross-platform expense tracking app using React Native and Firebase. 
+- **[WebPeekr](https://github.com/abuhasanrumi/webpeekr)** – Chrome extension that extracts fonts, colors, and design styles from any website.  
+- **[Micro-Flow](https://github.com/abuhasanrumi/micro-flow)** – Lightweight JavaScript utility for debouncing, throttling, and rate-limiting.  
+- **[State-Sync](https://github.com/abuhasanrumi/state-sync)** – NPM utility to sync state across browser tabs and windows.
+> 👉 Check out more on my [portfolio](https://www.itsrumi.com)
+
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td>
@@ -90,9 +99,19 @@ I enjoy creating intuitive, accessible user interfaces, and I'm especially passi
   </tr>
 </table>
 
-<h3 align="left">Connect with me:</h3>
+## 📫 Let's Connect!
+
 <p align="left">
-  <a href="https://dev.to/abuhasanrumi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abuhasanrumi" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/abu-hasan-rumi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abu-hasan-rumi" height="30" width="40" /></a>
-  <a href="https://fb.com/abu.hasan.rumi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abu.hasan.rumi" height="30" width="40" /></a>
+  <a href="https://www.itsrumi.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-itsrumi.com-0A66C2?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://www.linkedin.com/in/abuhasanrumi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-abuhasanrumi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:message.rumi2@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-message.rumi2@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://itsrumi.com/resume" target="_blank">
+    <img src="https://img.shields.io/badge/Resume/resume-4CAF50?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" />
+  </a>
 </p>
