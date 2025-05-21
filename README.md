@@ -4,19 +4,18 @@
 
 [![](https://visitcount.itsvg.in/api?id=abuhasanrumi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-In 2020, my coding quest began. Starting with HTML, I met CSS and JavaScript, conquering bugs like a coding warrior. Added a burst of colors 🌈 to my canvas, creating a vibrant world. In a hidden valley, I discovered React.js, transforming it into the mighty JSX 🙋‍♀️. The adventure continues—I seek to conquer new coding realms and become the Alexander the Great of web development! 💻✨
+I'm a **Frontend Engineer** with over 2 years of experience building responsive, high-performance web applications using **React**, **TypeScript**, and modern tooling. I currently work at **DevsNest LLC**, where I collaborate on e-commerce solutions and Shopify apps that serve real-world business needs.
 
-- 🔭 I’m currently working on **PizzaExpress, a NextJS food ordering app**
+I enjoy creating intuitive, accessible user interfaces, and I'm especially passionate about **developer tools**, **state management**, and building **micro-libraries** to improve UI performance.
 
-- 🌱 I’m currently learning **NextJS**
+## 🚀 Skills & Expertise
 
-- 👯 I’m looking to collaborate on **interesting opensource projects**
-
-- 👨‍💻 All of my projects are available at [www.abuhasanrumi.com](www.abuhasanrumi.com)
-
-- 💬 Ask me anything about **ReactJS and vanilla JS**
-
-- ⚡ Fun fact: **I am not a nerd**
+**Languages**: JavaScript (ES6+), TypeScript  
+**Frontend**: React.js, Next.js, Vue.js, Redux, Zustand, TanStack Query, Tailwind CSS, React Native  
+**Backend**: Node.js, Express.js, REST APIs, GraphQL, JWT  
+**Databases**: MongoDB, PostgreSQL  
+**Tooling**: Vite, Webpack, Chrome Extension APIs, Firebase  
+**Others**: Shopify App Development, Chrome Extensions, NPM Package Publishing  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
