@@ -71,14 +71,6 @@ I enjoy creating intuitive, accessible user interfaces, and I'm especially passi
 - Collaborated closely with product, design, and QA teams to deliver features aligned with business goals and user experience standards.
 - Mentored junior developers through code reviews and knowledge sharing, fostering a collaborative and growth-focused environment.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/abuhasanrumi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abuhasanrumi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abu-hasan-rumi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abu-hasan-rumi" height="30" width="40" /></a>
-<a href="https://fb.com/abu.hasan.rumi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abu.hasan.rumi" height="30" width="40" /></a>
-</p>
-###
-
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td>
@@ -98,6 +90,9 @@ I enjoy creating intuitive, accessible user interfaces, and I'm especially passi
   </tr>
 </table>
 
-### Watch my contribution graph get eaten by the snake
-
-![](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://dev.to/abuhasanrumi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abuhasanrumi" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/abu-hasan-rumi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abu-hasan-rumi" height="30" width="40" /></a>
+  <a href="https://fb.com/abu.hasan.rumi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abu.hasan.rumi" height="30" width="40" /></a>
+</p>
