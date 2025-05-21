@@ -8,24 +8,17 @@ I'm a **Frontend Engineer** with over 2 years of experience building responsive,
 
 I enjoy creating intuitive, accessible user interfaces, and I'm especially passionate about **developer tools**, **state management**, and building **micro-libraries** to improve UI performance.
 
-## 🚀 Skills & Expertise
+---
 
-**Languages**: JavaScript (ES6+), TypeScript  
-**Frontend**: React.js, Next.js, Vue.js, Redux, Zustand, TanStack Query, Tailwind CSS, React Native  
-**Backend**: Node.js, Express.js, REST APIs, GraphQL, JWT  
-**Databases**: MongoDB, PostgreSQL  
-**Tooling**: Vite, Webpack, Chrome Extension APIs, Firebase  
-**Others**: Shopify App Development, Chrome Extensions, NPM Package Publishing  
+## Skills & Tools
 
-## 🚀 Skills & Expertise
-
-### 🧠 Languages
+### Languages
 <p>
   <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
-### 🎨 Frontend
+### Frontend
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -34,10 +27,15 @@ I enjoy creating intuitive, accessible user interfaces, and I'm especially passi
   <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=Zustand&logoColor=white" alt="Zustand" />
   <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white" alt="Chakra UI" />
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="shadcn/ui" />
+  <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" alt="Ant Design" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-</p>
+</p> 
 
-### ⚙️ Backend & APIs
+### ⚙Backend & APIs
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
@@ -46,27 +44,39 @@ I enjoy creating intuitive, accessible user interfaces, and I'm especially passi
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" />
 </p>
 
-### 🗃️ Databases
+### Databases
 <p>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
-### 🛠️ Tooling
+### Tooling
 <p>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack" />
-  <img src="https://img.shields.io/badge/Chrome_Extension_APIs-5F6368?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Extension APIs" />
+  <img src="https://img.shields.io/badge/Chrome_Browser_APIs-5F6368?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Browser APIs" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
 </p>
 
-### 💼 Others
+### Others
 <p>
   <img src="https://img.shields.io/badge/Shopify_App_Dev-96bf48?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify App Development" />
   <img src="https://img.shields.io/badge/Chrome_Extensions-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Extensions" />
   <img src="https://img.shields.io/badge/NPM_Packages-CC3534?style=for-the-badge&logo=npm&logoColor=white" alt="NPM Package Publishing" />
 </p>
- 
+
+---
+
+## 🧑‍💻 Work Experience
+
+### **DevsNest LLC**  
+*Software Engineer* | *May 2023 – Present*  
+- Played a key role in developing a large-scale, scalable Shopify app dashboard, built with React, JavaScript, Redux, and REST APIs, featuring robust state management and modular architecture.
+- Built dynamic merchant dashboards and reusable frontend components, ensuring performance and maintainability across multiple apps.
+- Collaborated closely with product, design, and QA teams to deliver features aligned with business goals and user experience standards.
+- Mentored junior developers through code reviews and knowledge sharing, fostering a collaborative and growth-focused environment.
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
