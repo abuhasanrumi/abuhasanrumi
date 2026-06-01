@@ -93,10 +93,10 @@ I enjoy creating intuitive, accessible user interfaces, and I'm especially passi
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=abuhasanrumi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=abuhasanrumi&show_icons=true&theme=tokyonight" />
     </td>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=abuhasanrumi&theme=vue-dark&hide_border=true" />
+      <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=abuhasanrumi&theme=tokyonight" />
     </td>
   </tr>
   <tr>
@@ -104,7 +104,7 @@ I enjoy creating intuitive, accessible user interfaces, and I'm especially passi
       <img src="https://duolingo-stats-card.vercel.app/api?username=abuhasanrumi&theme=cobalt2&sort=xp" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuhasanrumi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abuhasanrumi&layout=compact&theme=tokyonight" />
     </td>
   </tr>
 </table>
